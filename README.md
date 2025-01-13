@@ -1,3 +1,8 @@
+-=(Performan_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # PERFORMAN
 
 This core is based on the Slapfight core.  A big thank you to Kold666 who helped me figure out the differences between the Performan and Slap Fight PCBs.
